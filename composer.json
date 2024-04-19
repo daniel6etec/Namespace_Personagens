@@ -1,0 +1,15 @@
+{
+    "name": "daniel/personagem",
+    "description": "exercicio da aula de TAP",
+    "autoload": {
+        "psr-4": {
+            "Personagem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Rufino"
+        }
+    ],
+    "require": {}
+}
